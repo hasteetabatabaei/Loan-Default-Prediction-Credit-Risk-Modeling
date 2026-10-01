@@ -56,4 +56,4 @@ Using XGBoost's feature importance analysis, the top predictive factors driving 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/loan-default-prediction.git
+   git clone https://github.com/hasteetabatabaei/Loan-Default-Prediction-Credit-Risk-Modeling.git
